@@ -6,13 +6,14 @@ Reg no: 25BAI10166
 Branch: BTech CSE (AI ML)  
 
 I've organized my work into specific modules:  
-**File / Folder**                                   **What it should contain**  
-report/Project_Report.pdf                      Full written report covering all 5 tasks  
-task-1-presentation/                         Infographic made from Canva, brief description  
-task-2-portfolio/                           Screenshots of profiles set up, reflection notes  
-task-3-platforms/                             Platform screenshots, activity proof, notes  
-task-4-email-etiquette/                        Sample email drafts, etiquette checklist  
-task-5-cybercrime/                             Case study writeup, prevention checklist  
+| File / Folder              | What it should contain |
+|----------------------------|------------------------|
+| report/Project_Report.pdf  | Full written report covering all 5 tasks |
+| task-1-presentation/       | Infographic made from Canva, brief description |
+| task-2-portfolio/          | Screenshots of profiles set up, reflection notes |
+| task-3-platforms/          | Platform screenshots, activity proof, notes |
+| task-4-email-etiquette/    | Sample email drafts, etiquette checklist |
+| task-5-cybercrime/         | Case study writeup, prevention checklist |
 
 ## Goal  
 The overall goal of my Digital Literacy Project is to demonstrate what I've learned from my studies in Digital Literacy and how these skills can be applied in different ways. 
